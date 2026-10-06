@@ -29,7 +29,7 @@ function M.get(c, opts)
     SignColumn                  = { fg = c.base01, bg = bg }, -- column where |signs| are displayed
     SignColumnSB                = { fg = c.base01, bg = c.bg_sidebar }, -- column where |signs| are displayed
     Substitute                  = { fg = c.base01, bg = c.base08 }, -- |:substitute| replacement text highlighting
-    LineNr                      = { fg = c.comment, bg = bg }, -- Line number for ":number" and ":#" commands, and when 'number' or 'relativenumber' option is set.
+    LineNr                      = { fg = c.dark3, bg = bg }, -- Line number for ":number" and ":#" commands, and when 'number' or 'relativenumber' option is set.
     CursorLineNr                = { fg = c.base04 }, -- Like LineNr when 'cursorline' or 'relativenumber' is set for the cursor line.
     LineNrAbove                 = "LineNr",
     LineNrBelow                 = "LineNr",

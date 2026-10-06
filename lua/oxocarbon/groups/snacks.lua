@@ -35,7 +35,7 @@ function M.get(c, opts)
     SnacksDashboardIcon       = { fg = c.blue1 },
     SnacksDashboardKey        = { fg = c.orange },
     SnacksDashboardSpecial    = { fg = c.purple },
-    SnacksDashboardDir        = { fg = c.dark3 },
+    SnacksDashboardDir        = "SnacksPickerDir",
     -- Profiler
     SnacksProfilerIconInfo    = { bg = Util.blend_bg(c.blue1, 0.3), fg = c.blue1 },
     SnacksProfilerBadgeInfo   = { bg = Util.blend_bg(c.blue1, 0.1), fg = c.blue1 },
@@ -54,6 +54,13 @@ function M.get(c, opts)
     SnacksPickerInputTitle    = { fg = c.orange, bg = c.bg_float },
     SnacksPickerBoxTitle      = { fg = c.orange, bg = c.bg_float },
     SnacksPickerSelected      = { fg = c.magenta2},
+    -- snacks links these to NonText, which is as dark as the selected row
+    SnacksPickerDir           = { fg = c.comment },
+    SnacksPickerPathHidden    = "SnacksPickerDir",
+    SnacksPickerPathIgnored   = "SnacksPickerDir",
+    SnacksPickerTotals        = "SnacksPickerDir",
+    SnacksPickerBufFlags      = "SnacksPickerDir",
+    SnacksPickerUnselected    = "SnacksPickerDir",
     SnacksPickerToggle        = "SnacksProfilerBadgeInfo",
     SnacksPickerPickWinCurrent= { fg = c.fg, bg = c.magenta2, bold = true },
     SnacksPickerPickWin       = { fg = c.fg, bg = c.bg_search, bold = true },

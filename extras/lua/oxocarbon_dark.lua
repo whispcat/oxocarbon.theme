@@ -2435,9 +2435,7 @@ local highlights = {
   SnacksDashboardDesc = {
     fg = "#3ddbd9"
   },
-  SnacksDashboardDir = {
-    fg = "#525252"
-  },
+  SnacksDashboardDir = "SnacksPickerDir",
   SnacksDashboardFooter = {
     fg = "#3ddbd9"
   },
@@ -2590,6 +2588,10 @@ local highlights = {
     bg = "#131313",
     fg = "#ff7eb6"
   },
+  SnacksPickerBufFlags = "SnacksPickerDir",
+  SnacksPickerDir = {
+    fg = "#525252"
+  },
   SnacksPickerInputBorder = {
     bg = "#131313",
     fg = "#ff7eb6"
@@ -2598,6 +2600,8 @@ local highlights = {
     bg = "#131313",
     fg = "#ff7eb6"
   },
+  SnacksPickerPathHidden = "SnacksPickerDir",
+  SnacksPickerPathIgnored = "SnacksPickerDir",
   SnacksPickerPickWin = {
     bg = "#393939",
     bold = true,
@@ -2612,6 +2616,8 @@ local highlights = {
     fg = "#ee5396"
   },
   SnacksPickerToggle = "SnacksProfilerBadgeInfo",
+  SnacksPickerTotals = "SnacksPickerDir",
+  SnacksPickerUnselected = "SnacksPickerDir",
   SnacksProfilerBadgeInfo = {
     bg = "#1a2a2a",
     fg = "#3ddbd9"
