@@ -53,9 +53,9 @@ function M.kinds(hl, pattern)
   return hl
 end
 
--- completion kinds rendered as oxocarbon.nvim's colored badges
+-- completion kind icon colors, grouped as in oxocarbon.nvim
 -- stylua: ignore
-local badges = {
+local kind_colors = {
   base08 = { "Interface", "Color", "TypeParameter" },
   base09 = { "Text", "Enum", "Keyword" },
   base10 = { "Constant", "Constructor", "Reference" },
@@ -69,10 +69,10 @@ local badges = {
 ---@param hl oxocarbon.Highlights
 ---@param pattern string
 ---@param c ColorScheme
-function M.badges(hl, pattern, c)
-  for slot, names in pairs(badges) do
+function M.colors(hl, pattern, c)
+  for slot, names in pairs(kind_colors) do
     for _, kind in ipairs(names) do
-      hl[pattern:format(kind)] = { fg = c.base01, bg = c[slot] }
+      hl[pattern:format(kind)] = { fg = c[slot] }
     end
   end
   return hl

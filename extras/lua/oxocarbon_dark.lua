@@ -474,130 +474,101 @@ local highlights = {
   BlinkCmpKindArray = "LspKindArray",
   BlinkCmpKindBoolean = "LspKindBoolean",
   BlinkCmpKindClass = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   BlinkCmpKindCodeium = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   BlinkCmpKindColor = {
-    bg = "#3ddbd9",
-    fg = "#262626"
+    fg = "#3ddbd9"
   },
   BlinkCmpKindConstant = {
-    bg = "#ee5396",
-    fg = "#262626"
+    fg = "#ee5396"
   },
   BlinkCmpKindConstructor = {
-    bg = "#ee5396",
-    fg = "#262626"
+    fg = "#ee5396"
   },
   BlinkCmpKindCopilot = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   BlinkCmpKindDefault = {
     fg = "#d0d0d0"
   },
   BlinkCmpKindEnum = {
-    bg = "#78a9ff",
-    fg = "#262626"
+    fg = "#78a9ff"
   },
   BlinkCmpKindEnumMember = {
-    bg = "#82cfff",
-    fg = "#262626"
+    fg = "#82cfff"
   },
   BlinkCmpKindEvent = {
-    bg = "#ff7eb6",
-    fg = "#262626"
+    fg = "#ff7eb6"
   },
   BlinkCmpKindField = {
-    bg = "#ff7eb6",
-    fg = "#262626"
+    fg = "#ff7eb6"
   },
   BlinkCmpKindFile = {
-    bg = "#be95ff",
-    fg = "#262626"
+    fg = "#be95ff"
   },
   BlinkCmpKindFolder = {
-    bg = "#42be65",
-    fg = "#262626"
+    fg = "#42be65"
   },
   BlinkCmpKindFunction = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   BlinkCmpKindInterface = {
-    bg = "#3ddbd9",
-    fg = "#262626"
+    fg = "#3ddbd9"
   },
   BlinkCmpKindKey = "LspKindKey",
   BlinkCmpKindKeyword = {
-    bg = "#78a9ff",
-    fg = "#262626"
+    fg = "#78a9ff"
   },
   BlinkCmpKindMethod = {
-    bg = "#82cfff",
-    fg = "#262626"
+    fg = "#82cfff"
   },
   BlinkCmpKindModule = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   BlinkCmpKindNamespace = "LspKindNamespace",
   BlinkCmpKindNull = "LspKindNull",
   BlinkCmpKindNumber = "LspKindNumber",
   BlinkCmpKindObject = "LspKindObject",
   BlinkCmpKindOperator = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   BlinkCmpKindPackage = "LspKindPackage",
   BlinkCmpKindProperty = {
-    bg = "#ff7eb6",
-    fg = "#262626"
+    fg = "#ff7eb6"
   },
   BlinkCmpKindReference = {
-    bg = "#ee5396",
-    fg = "#262626"
+    fg = "#ee5396"
   },
   BlinkCmpKindSnippet = {
-    bg = "#42be65",
-    fg = "#262626"
+    fg = "#42be65"
   },
   BlinkCmpKindString = "LspKindString",
   BlinkCmpKindStruct = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   BlinkCmpKindSupermaven = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   BlinkCmpKindTabNine = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   BlinkCmpKindText = {
-    bg = "#78a9ff",
-    fg = "#262626"
+    fg = "#78a9ff"
   },
   BlinkCmpKindTypeParameter = {
-    bg = "#3ddbd9",
-    fg = "#262626"
+    fg = "#3ddbd9"
   },
   BlinkCmpKindUnit = {
-    bg = "#42be65",
-    fg = "#262626"
+    fg = "#42be65"
   },
   BlinkCmpKindValue = {
-    bg = "#82cfff",
-    fg = "#262626"
+    fg = "#82cfff"
   },
   BlinkCmpKindVariable = {
-    bg = "#be95ff",
-    fg = "#262626"
+    fg = "#be95ff"
   },
   BlinkCmpLabel = {
     fg = "#adadad"
@@ -902,130 +873,101 @@ local highlights = {
   CmpItemKindArray = "LspKindArray",
   CmpItemKindBoolean = "LspKindBoolean",
   CmpItemKindClass = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   CmpItemKindCodeium = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   CmpItemKindColor = {
-    bg = "#3ddbd9",
-    fg = "#262626"
+    fg = "#3ddbd9"
   },
   CmpItemKindConstant = {
-    bg = "#ee5396",
-    fg = "#262626"
+    fg = "#ee5396"
   },
   CmpItemKindConstructor = {
-    bg = "#ee5396",
-    fg = "#262626"
+    fg = "#ee5396"
   },
   CmpItemKindCopilot = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   CmpItemKindDefault = {
     fg = "#d0d0d0"
   },
   CmpItemKindEnum = {
-    bg = "#78a9ff",
-    fg = "#262626"
+    fg = "#78a9ff"
   },
   CmpItemKindEnumMember = {
-    bg = "#82cfff",
-    fg = "#262626"
+    fg = "#82cfff"
   },
   CmpItemKindEvent = {
-    bg = "#ff7eb6",
-    fg = "#262626"
+    fg = "#ff7eb6"
   },
   CmpItemKindField = {
-    bg = "#ff7eb6",
-    fg = "#262626"
+    fg = "#ff7eb6"
   },
   CmpItemKindFile = {
-    bg = "#be95ff",
-    fg = "#262626"
+    fg = "#be95ff"
   },
   CmpItemKindFolder = {
-    bg = "#42be65",
-    fg = "#262626"
+    fg = "#42be65"
   },
   CmpItemKindFunction = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   CmpItemKindInterface = {
-    bg = "#3ddbd9",
-    fg = "#262626"
+    fg = "#3ddbd9"
   },
   CmpItemKindKey = "LspKindKey",
   CmpItemKindKeyword = {
-    bg = "#78a9ff",
-    fg = "#262626"
+    fg = "#78a9ff"
   },
   CmpItemKindMethod = {
-    bg = "#82cfff",
-    fg = "#262626"
+    fg = "#82cfff"
   },
   CmpItemKindModule = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   CmpItemKindNamespace = "LspKindNamespace",
   CmpItemKindNull = "LspKindNull",
   CmpItemKindNumber = "LspKindNumber",
   CmpItemKindObject = "LspKindObject",
   CmpItemKindOperator = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   CmpItemKindPackage = "LspKindPackage",
   CmpItemKindProperty = {
-    bg = "#ff7eb6",
-    fg = "#262626"
+    fg = "#ff7eb6"
   },
   CmpItemKindReference = {
-    bg = "#ee5396",
-    fg = "#262626"
+    fg = "#ee5396"
   },
   CmpItemKindSnippet = {
-    bg = "#42be65",
-    fg = "#262626"
+    fg = "#42be65"
   },
   CmpItemKindString = "LspKindString",
   CmpItemKindStruct = {
-    bg = "#33b1ff",
-    fg = "#262626"
+    fg = "#33b1ff"
   },
   CmpItemKindSupermaven = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   CmpItemKindTabNine = {
-    bg = "#08bdba",
-    fg = "#262626"
+    fg = "#08bdba"
   },
   CmpItemKindText = {
-    bg = "#78a9ff",
-    fg = "#262626"
+    fg = "#78a9ff"
   },
   CmpItemKindTypeParameter = {
-    bg = "#3ddbd9",
-    fg = "#262626"
+    fg = "#3ddbd9"
   },
   CmpItemKindUnit = {
-    bg = "#42be65",
-    fg = "#262626"
+    fg = "#42be65"
   },
   CmpItemKindValue = {
-    bg = "#82cfff",
-    fg = "#262626"
+    fg = "#82cfff"
   },
   CmpItemKindVariable = {
-    bg = "#be95ff",
-    fg = "#262626"
+    fg = "#be95ff"
   },
   CmpItemMenu = {
     fg = "#d0d0d0",

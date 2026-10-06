@@ -12,11 +12,11 @@ function M.get(c)
     BlinkCmpDocSeparator                 = { fg = c.base02, bg = c.base01 },
     BlinkCmpGhostText                    = { fg = c.comment },
     BlinkCmpKind                         = { fg = c.base04 },
-    BlinkCmpKindCodeium                  = { fg = c.base01, bg = c.base07 },
-    BlinkCmpKindCopilot                  = { fg = c.base01, bg = c.base07 },
+    BlinkCmpKindCodeium                  = { fg = c.base07 },
+    BlinkCmpKindCopilot                  = { fg = c.base07 },
     BlinkCmpKindDefault                  = { fg = c.base04 },
-    BlinkCmpKindSupermaven               = { fg = c.base01, bg = c.base07 },
-    BlinkCmpKindTabNine                  = { fg = c.base01, bg = c.base07 },
+    BlinkCmpKindSupermaven               = { fg = c.base07 },
+    BlinkCmpKindTabNine                  = { fg = c.base07 },
     BlinkCmpLabel                        = { fg = c.dark5 },
     BlinkCmpLabelDeprecated              = { fg = c.comment, italic = true },
     BlinkCmpLabelDescription             = { fg = c.base04 },
@@ -34,7 +34,7 @@ function M.get(c)
   }
 
   require("oxocarbon.groups.kinds").kinds(ret, "BlinkCmpKind%s")
-  require("oxocarbon.groups.kinds").badges(ret, "BlinkCmpKind%s", c)
+  require("oxocarbon.groups.kinds").colors(ret, "BlinkCmpKind%s", c)
   return ret
 end
 

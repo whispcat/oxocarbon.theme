@@ -1,6 +1,6 @@
 local M = {}
 
-M.version = "1.0.0"
+M.version = "1.0.1"
 
 ---@class oxocarbon.Config
 ---@field on_colors fun(colors: ColorScheme)
