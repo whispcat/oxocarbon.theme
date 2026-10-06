@@ -1,0 +1,26 @@
+{
+    "name": "Oxocarbon Light",
+    "comment": "",
+    "use-theme-colors": false,
+    "foreground-color": "#37474f",
+    "background-color": "#ffffff",
+    "palette": [
+        "#f2f2f2",
+        "#ee5396",
+        "#42be65",
+        "#ff6f00",
+        "#0f62fe",
+        "#673ab7",
+        "#08bdba",
+        "#37474f",
+        "#90a4ae",
+        "#ee5396",
+        "#42be65",
+        "#ff6f00",
+        "#0f62fe",
+        "#673ab7",
+        "#08bdba",
+        "#37474f"
+    ]
+}
+  

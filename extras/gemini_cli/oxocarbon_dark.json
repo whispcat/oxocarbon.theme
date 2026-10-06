@@ -1,0 +1,40 @@
+{
+  "name": "Oxocarbon Dark",
+  "type": "custom",
+  "text": {
+    "primary": "#d0d0d0",
+    "secondary": "#d0d0d0",
+    "response": "#d0d0d0"
+  },
+  "background": {
+    "primary": "#161616",
+    "diff": {
+      "added": "#122f2f",
+      "removed": "#361c28"
+    }
+  },
+  "border": {
+    "default": "#262626",
+    "focused": "#78a9ff"
+  },
+  "ui": {
+    "comment": "#525252",
+    "symbol": "#d0d0d0",
+    "gradient": ["#78a9ff", "#be95ff", "#3ddbd9"]
+  },
+  "Background": "#161616",
+  "Foreground": "#d0d0d0",
+  "LightBlue": "#3ddbd9",
+  "AccentBlue": "#be95ff",
+  "AccentPurple": "#be95ff",
+  "AccentCyan": "#3ddbd9",
+  "AccentGreen": "#ff7eb6",
+  "AccentYellow": "#42be65",
+  "AccentRed": "#ee5396",
+  "DiffAdded": "#122f2f",
+  "DiffRemoved": "#361c28",
+  "Comment": "#525252",
+  "Gray": "#d0d0d0",
+  "DarkGray": "#131313",
+  "GradientColors": ["#78a9ff", "#be95ff", "#3ddbd9"]
+}

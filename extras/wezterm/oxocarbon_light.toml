@@ -1,0 +1,45 @@
+[colors]
+foreground = "#37474f"
+background = "#ffffff"
+cursor_bg = "#37474f"
+cursor_border = "#37474f"
+cursor_fg = "#ffffff"
+selection_bg = "#d0d0d0"
+selection_fg = "#37474f"
+split = "#0f62fe"
+compose_cursor = "#ff6f00"
+scrollbar_thumb = "#f2f2f2"
+
+ansi = ["#f2f2f2", "#0f62fe", "#be95ff", "#42be65", "#ee5396", "#ffab91", "#ff7eb6", "#90a4ae"]
+brights = ["#161616", "#0f62fe", "#be95ff", "#42be65", "#ee5396", "#ffab91", "#08bdba", "#525252"]
+
+[colors.tab_bar]
+inactive_tab_edge = "#fafafa"
+background = "#ffffff"
+
+[colors.tab_bar.active_tab]
+fg_color = "#fafafa"
+bg_color = "#0f62fe"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#90a4ae"
+bg_color = "#f2f2f2"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#0f62fe"
+bg_color = "#f2f2f2"
+# intensity = "Bold"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#0f62fe"
+bg_color = "#ffffff"
+intensity = "Bold"
+
+[colors.tab_bar.new_tab]
+fg_color = "#0f62fe"
+bg_color = "#ffffff"
+
+[metadata]
+aliases = []
+author = "whispcat"
+name = "oxocarbon_light"

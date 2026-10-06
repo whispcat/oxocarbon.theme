@@ -1,0 +1,28 @@
+{
+  "name": "Oxocarbon Dark",
+  "version": 1,
+  "shared": {
+    "backgroundColor": "#161616",
+    "colorPaletteOverrides": [
+      "#262626",
+      "#33b1ff",
+      "#be95ff",
+      "#42be65",
+      "#78a9ff",
+      "#82cfff",
+      "#3ddbd9",
+      "#f2f2f2",
+      "#525252",
+      "#33b1ff",
+      "#be95ff",
+      "#42be65",
+      "#78a9ff",
+      "#82cfff",
+      "#08bdba",
+      "#ffffff",
+    ],
+    "cursorColor": "#d0d0d0",
+    "foregroundColor": "#d0d0d0"
+  }
+}
+

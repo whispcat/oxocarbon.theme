@@ -1,0 +1,17 @@
+# Oxocarbon colors for dunst
+# For more configuration options see https://github.com/dunst-project/dunst/blob/master/dunstrc
+
+[urgency_low]
+    background = "#131313"
+    foreground = "#d0d0d0"
+    frame_color = "#d0d0d0"
+
+[urgency_normal]
+    background = "#161616"
+    foreground = "#d0d0d0"
+    frame_color = "#d0d0d0"
+
+[urgency_critical]
+    background = "#262626"
+    foreground = "#ee5396"
+    frame_color = "#ee5396"

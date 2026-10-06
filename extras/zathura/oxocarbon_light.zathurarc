@@ -1,0 +1,38 @@
+# Oxocarbon color theme for Zathura
+# Swaps Foreground for Background to get a light version if the user prefers
+#
+# Oxocarbon color theme
+#
+set notification-error-bg "#ee5396"
+set notification-error-fg "#37474f"
+set notification-warning-bg "#ff6f00"
+set notification-warning-fg "#90a4ae"
+set notification-bg "#ffffff"
+set notification-fg "#37474f"
+set completion-bg "#ffffff"
+set completion-fg "#37474f"
+set completion-group-bg "#ffffff"
+set completion-group-fg "#37474f"
+set completion-highlight-bg "#90a4ae"
+set completion-highlight-fg "#37474f"
+set index-bg "#ffffff"
+set index-fg "#37474f"
+set index-active-bg "#90a4ae"
+set index-active-fg "#37474f"
+set inputbar-bg "#ffffff"
+set inputbar-fg "#37474f"
+set statusbar-bg "#ffffff"
+set statusbar-fg "#37474f"
+set highlight-color "#ff6f00"
+set highlight-active-color "#42be65"
+set default-bg "#ffffff"
+set default-fg "#37474f"
+set render-loading true
+set render-loading-fg "#ffffff"
+set render-loading-bg "#37474f"
+#
+# Recolor mode settings
+# <C-r> to switch modes
+#
+set recolor-lightcolor "#ffffff"
+set recolor-darkcolor "#37474f"

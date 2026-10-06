@@ -1,0 +1,23 @@
+! Oxocarbon colors for Xresources
+
+*background: #ffffff
+*foreground: #37474f
+
+*color0: #f2f2f2
+*color1: #ee5396
+*color2: #42be65
+*color3: #ff6f00
+*color4: #0f62fe
+*color5: #673ab7
+*color6: #08bdba
+*color7: #37474f
+
+*color8: #90a4ae
+*color9: #ee5396
+*color10: #42be65
+*color11: #ff6f00
+*color12: #0f62fe
+*color13: #673ab7
+*color14: #08bdba
+*color15: #37474f
+ 

@@ -1,0 +1,187 @@
+attribute = { fg = "#ffab91" }
+comment = { fg = "#90a4ae", modifiers = ["italic"] }
+"comment.block.documentation" = { fg = "#be95ff" }
+constant = { fg = "#37474f" }
+"constant.builtin" = { fg = "#08bdba" }
+"constant.builtin.boolean" = { fg = "#ee5396" }
+"constant.character" = { fg = "#be95ff" }
+"constant.character.escape" = { fg = "#ffab91" }
+"constant.numeric" = { fg = "#ffab91" }
+"constant.numeric.float" = { fg = "#ffab91" }
+"constant.numeric.integer" = { fg = "#ffab91" }
+constructor = { fg = "#ee5396" }
+"diagnostic.error" = { underline = { style = "curl" } }
+"diagnostic.hint" = { underline = { style = "curl" } }
+"diagnostic.info" = { underline = { style = "curl" } }
+"diagnostic.warning" = { underline = { style = "curl" } }
+"diff.delta" = { fg = "#ee5396" }
+"diff.delta.moved" = { fg = "#ee5396" }
+"diff.minus" = { fg = "#ff6f00" }
+"diff.plus" = { fg = "#08bdba" }
+error = { fg = "#ff6f00" }
+function = { fg = "#ff7eb6" }
+"function.builtin" = { fg = "#673ab7" }
+"function.macro" = { fg = "#08bdba" }
+"function.method" = { fg = "#08bdba" }
+"function.special" = { fg = "#ee5396" }
+hint = { fg = "#37474f" }
+info = { fg = "#ee5396" }
+keyword = { fg = "#ee5396" }
+"keyword.control" = { fg = "#ee5396" }
+"keyword.control.conditional" = { fg = "#ee5396" }
+"keyword.control.exception" = { fg = "#ee5396" }
+"keyword.control.repeat" = { fg = "#ee5396" }
+"keyword.control.return" = { fg = "#ee5396" }
+"keyword.directive" = { fg = "#ee5396" }
+"keyword.function" = { fg = "#ff7eb6" }
+"keyword.operator" = { fg = "#ee5396" }
+label = { fg = "#ffab91" }
+"markup.bold" = { modifiers = ["bold"] }
+"markup.heading" = { fg = "#37474f" }
+"markup.heading.completion" = { bg = "#f2f2f2", fg = "#37474f" }
+"markup.heading.hover" = { bg = "#d0d0d0", fg = "#ff7eb6" }
+"markup.italic" = { modifiers = ["italic"] }
+"markup.link" = { fg = "#be95ff" }
+"markup.link.label" = { underline = { style = "line" } }
+"markup.link.text" = { fg = "#be95ff" }
+"markup.link.url" = { fg = "#be95ff" }
+"markup.list" = { fg = "#ff7eb6" }
+"markup.normal.completion" = { fg = "#37474f", modifiers = ["italic"] }
+"markup.normal.hover" = { fg = "#37474f" }
+"markup.raw" = { fg = "#be95ff" }
+"markup.raw.inline" = { fg = "#be95ff" }
+"markup.strikethrough" = { modifiers = ["crossed_out"] }
+namespace = { fg = "#08bdba" }
+operator = { fg = "#ee5396" }
+special = { fg = "#37474f" }
+string = { fg = "#be95ff" }
+"string.regexp" = { fg = "#08bdba" }
+"string.special" = { fg = "#37474f" }
+tag = { fg = "#ee5396" }
+type = { fg = "#ee5396" }
+"type.builtin" = { fg = "#ee5396" }
+"type.enum" = { fg = "#ee5396" }
+"type.enum.variant" = { fg = "#be95ff" }
+"ui.background" = { bg = "bg" }
+"ui.bufferline.active" = { bg = "bg_visual", fg = "fg" }
+"ui.cursor" = { bg = "#37474f", fg = "#ffffff" }
+"ui.cursor.match" = { bg = "#d0d0d0", underline = { style = "line" } }
+"ui.linenr" = { bg = "#ffffff", fg = "#90a4ae" }
+"ui.linenr.select" = { fg = "#37474f" }
+"ui.menu" = { bg = "#f2f2f2", fg = "#37474f" }
+"ui.menu.scroll" = { bg = 15921906, fg = 13684944 }
+"ui.menu.selected" = { bg = "#d0d0d0", fg = "#ff7eb6" }
+"ui.popup" = { bg = "#fafafa", fg = "#fafafa" }
+"ui.selection" = { bg = "bg_highlight" }
+"ui.statusline" = { bg = "#ffffff", fg = "#37474f" }
+"ui.statusline.inactive" = { bg = "#f2f2f2", fg = "#37474f" }
+"ui.statusline.normal" = { bg = "blue", fg = "black" }
+"ui.text" = { bg = "#ffffff", fg = "#37474f" }
+"ui.text.focus" = { bg = "#d0d0d0" }
+"ui.text.inactive" = { fg = "#90a4ae", modifiers = ["italic"] }
+"ui.text.info" = { bg = "#fafafa" }
+"ui.virtual.inlay-hint" = { bg = "#ebeded", fg = "#37474f" }
+"ui.window" = { bg = "#ffffff", fg = "#f2f2f2" }
+variable = { fg = "#37474f" }
+"variable.builtin" = { fg = "#37474f" }
+"variable.other.member" = { fg = "#37474f" }
+"variable.parameter" = { fg = "#37474f" }
+warning = { fg = "#be95ff" }
+
+[palette]
+base00 = "#ffffff"
+base01 = "#f2f2f2"
+base02 = "#d0d0d0"
+base03 = "#161616"
+base04 = "#37474f"
+base05 = "#90a4ae"
+base06 = "#525252"
+base07 = "#08bdba"
+base08 = "#ff7eb6"
+base09 = "#ee5396"
+base10 = "#ff6f00"
+base11 = "#0f62fe"
+base12 = "#673ab7"
+base13 = "#42be65"
+base14 = "#be95ff"
+base15 = "#ffab91"
+bg = "#ffffff"
+bg_dark = "#fafafa"
+bg_dark1 = "#e8e8e8"
+bg_float = "#fafafa"
+bg_highlight = "#f2f2f2"
+bg_popup = "#fafafa"
+bg_search = "#d0d0d0"
+bg_sidebar = "#ffffff"
+bg_statusline = "#f2f2f2"
+bg_visual = "#d0d0d0"
+black = "#f2f2f2"
+blend = "#fafafa"
+blue = "#0f62fe"
+blue0 = "#c6d7fe"
+blue1 = "#0f62fe"
+blue2 = "#0f62fe"
+blue5 = "#0f62fe"
+blue6 = "#08bdba"
+blue7 = "#dfe8ff"
+border = "#f2f2f2"
+border_highlight = "#d0d0d0"
+comment = "#90a4ae"
+cyan = "#08bdba"
+dark3 = "#90a4ae"
+dark5 = "#6f7f86"
+"diff.add" = "#cef2f1"
+"diff.change" = "#e7efff"
+"diff.delete" = "#fcddea"
+"diff.text" = "#c3d8ff"
+error = "#ff6f00"
+fg = "#37474f"
+fg_dark = "#37474f"
+fg_float = "#90a4ae"
+fg_gutter = "#d0d0d0"
+fg_sidebar = "#37474f"
+"git.add" = "#08bdba"
+"git.change" = "#ee5396"
+"git.delete" = "#ff6f00"
+"git.ignore" = "#90a4ae"
+green = "#42be65"
+green1 = "#08bdba"
+green2 = "#08bdba"
+hint = "#37474f"
+info = "#ee5396"
+magenta = "#673ab7"
+magenta2 = "#ee5396"
+orange = "#ff6f00"
+pink = "#ff7eb6"
+purple = "#be95ff"
+rainbow = "#ee5396"
+"rainbow.2" = "#ff7eb6"
+"rainbow.3" = "#be95ff"
+"rainbow.4" = "#673ab7"
+"rainbow.5" = "#42be65"
+"rainbow.6" = "#ffab91"
+"rainbow.7" = "#08bdba"
+"rainbow.8" = "#ff6f00"
+red = "#ee5396"
+red1 = "#ee5396"
+teal = "#08bdba"
+"terminal.black" = "#f2f2f2"
+"terminal.black_bright" = "#161616"
+"terminal.blue" = "#ee5396"
+"terminal.blue_bright" = "#ee5396"
+"terminal.cyan" = "#ff7eb6"
+"terminal.cyan_bright" = "#08bdba"
+"terminal.green" = "#be95ff"
+"terminal.green_bright" = "#be95ff"
+"terminal.magenta" = "#ffab91"
+"terminal.magenta_bright" = "#ffab91"
+"terminal.red" = "#0f62fe"
+"terminal.red_bright" = "#0f62fe"
+"terminal.white" = "#90a4ae"
+"terminal.white_bright" = "#525252"
+"terminal.yellow" = "#42be65"
+"terminal.yellow_bright" = "#42be65"
+terminal_black = "#90a4ae"
+todo = "#42be65"
+warning = "#be95ff"
+yellow = "#ff6f00"

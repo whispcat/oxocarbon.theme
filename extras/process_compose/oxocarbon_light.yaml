@@ -1,0 +1,36 @@
+style:
+  name: oxocarbon_light
+  body:
+    fgColor: '#37474f'
+    bgColor: '#fafafa'
+    secondaryTextColor: '#37474f'
+    tertiaryTextColor: '#37474f'
+    borderColor: '#d0d0d0'
+  stat_table:
+    keyFgColor: '#ff6f00'
+    valueFgColor: '#37474f'
+    logoColor: '#ff6f00'
+  proc_table:
+    fgColor: '#0f62fe'
+    fgWarning: '#ff6f00'
+    fgPending: '#90a4ae'
+    fgCompleted: '#42be65'
+    fgError: '#ee5396'
+    headerFgColor: '#37474f'
+  help:
+    fgColor: '#0f62fe'
+    keyColor: '#37474f'
+    hlColor: '#42be65'
+    categoryFgColor: '#0f62fe'
+  dialog:
+    fgColor: '#0f62fe'
+    bgColor: '#f2f2f2'
+    contrastBgColor: '#ffffff'
+    attentionBgColor: '#ee5396'
+    buttonFgColor: '#f2f2f2'
+    buttonBgColor: '#f2f2f2'
+    buttonFocusFgColor: '#f2f2f2'
+    buttonFocusBgColor: '#0f62fe'
+    labelFgColor: '#ff6f00'
+    fieldFgColor: '#f2f2f2'
+    fieldBgColor: '#dfe8ff'

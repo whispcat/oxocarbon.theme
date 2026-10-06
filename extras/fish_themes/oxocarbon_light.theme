@@ -1,0 +1,25 @@
+# Oxocarbon
+
+# Syntax Highlighting Colors
+fish_color_normal 37474f
+fish_color_command 08bdba
+fish_color_keyword 673ab7
+fish_color_quote ff6f00
+fish_color_redirection 37474f
+fish_color_end ff6f00
+fish_color_option 673ab7
+fish_color_error ee5396
+fish_color_param be95ff
+fish_color_comment 90a4ae
+fish_color_selection --background=d0d0d0
+fish_color_search_match --background=d0d0d0
+fish_color_operator 42be65
+fish_color_escape 673ab7
+fish_color_autosuggestion 90a4ae
+
+# Completion Pager Colors
+fish_pager_color_progress 90a4ae
+fish_pager_color_prefix 08bdba
+fish_pager_color_completion 37474f
+fish_pager_color_description 90a4ae
+fish_pager_color_selected_background --background=d0d0d0

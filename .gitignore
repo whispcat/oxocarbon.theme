@@ -1,0 +1,8 @@
+*.log
+/.tests
+/.repro
+/build
+/debug
+/doc/tags
+.DS_Store
+/extras/vivaldi/*.zip

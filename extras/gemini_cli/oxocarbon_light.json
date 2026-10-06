@@ -1,0 +1,40 @@
+{
+  "name": "Oxocarbon Light",
+  "type": "custom",
+  "text": {
+    "primary": "#37474f",
+    "secondary": "#37474f",
+    "response": "#37474f"
+  },
+  "background": {
+    "primary": "#ffffff",
+    "diff": {
+      "added": "#cef2f1",
+      "removed": "#fcddea"
+    }
+  },
+  "border": {
+    "default": "#f2f2f2",
+    "focused": "#0f62fe"
+  },
+  "ui": {
+    "comment": "#90a4ae",
+    "symbol": "#37474f",
+    "gradient": ["#0f62fe", "#673ab7", "#08bdba"]
+  },
+  "Background": "#ffffff",
+  "Foreground": "#37474f",
+  "LightBlue": "#0f62fe",
+  "AccentBlue": "#673ab7",
+  "AccentPurple": "#be95ff",
+  "AccentCyan": "#08bdba",
+  "AccentGreen": "#ff6f00",
+  "AccentYellow": "#42be65",
+  "AccentRed": "#ee5396",
+  "DiffAdded": "#cef2f1",
+  "DiffRemoved": "#fcddea",
+  "Comment": "#90a4ae",
+  "Gray": "#37474f",
+  "DarkGray": "#fafafa",
+  "GradientColors": ["#0f62fe", "#673ab7", "#08bdba"]
+}

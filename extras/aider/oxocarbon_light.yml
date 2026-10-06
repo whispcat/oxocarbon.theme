@@ -1,0 +1,16 @@
+assistant-output-color: "#37474f"
+
+# see the aider extra README for more information about setting the `code-theme`
+# https://github.com/whispcat/oxocarbon.theme/blob/extras/aider/README.md
+# code-theme: oxocarbon-light
+
+completion-menu-color: "#90a4ae"
+completion-menu-bg-color: "#fafafa"
+completion-menu-current-color: "#90a4ae"
+completion-menu-current-bg-color: "#f2f2f2"
+
+tool-error-color: "#ff6f00"
+tool-output-color: "#0f62fe"
+tool-warning-color: "#be95ff"
+
+user-input-color: "#42be65"

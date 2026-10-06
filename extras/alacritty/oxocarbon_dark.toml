@@ -1,0 +1,32 @@
+# -----------------------------------------------------------------------------
+# Oxocarbon Alacritty Colors
+# Theme: Oxocarbon Dark
+# Upstream: https://github.com/whispcat/oxocarbon.theme/raw/main/extras/alacritty/oxocarbon_dark.toml
+# -----------------------------------------------------------------------------
+
+# Default colors
+[colors.primary]
+background = '#161616'
+foreground = '#d0d0d0'
+
+# Normal colors
+[colors.normal]
+black = '#262626'
+red = '#33b1ff'
+green = '#be95ff'
+yellow = '#42be65'
+blue = '#78a9ff'
+magenta = '#82cfff'
+cyan = '#3ddbd9'
+white = '#f2f2f2'
+
+# Bright colors
+[colors.bright]
+black = '#525252'
+red = '#33b1ff'
+green = '#be95ff'
+yellow = '#42be65'
+blue = '#78a9ff'
+magenta = '#82cfff'
+cyan = '#08bdba'
+white = '#ffffff'

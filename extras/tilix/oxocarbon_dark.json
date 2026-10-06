@@ -1,0 +1,26 @@
+{
+    "name": "Oxocarbon Dark",
+    "comment": "",
+    "use-theme-colors": false,
+    "foreground-color": "#d0d0d0",
+    "background-color": "#161616",
+    "palette": [
+        "#262626",
+        "#ee5396",
+        "#42be65",
+        "#42be65",
+        "#78a9ff",
+        "#be95ff",
+        "#3ddbd9",
+        "#d0d0d0",
+        "#525252",
+        "#ee5396",
+        "#42be65",
+        "#42be65",
+        "#78a9ff",
+        "#be95ff",
+        "#3ddbd9",
+        "#d0d0d0"
+    ]
+}
+  

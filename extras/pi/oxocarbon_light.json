@@ -1,0 +1,63 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "Oxocarbon Light",
+  "colors": {
+    "accent": "#0f62fe",
+    "border": "#d0d0d0",
+    "borderAccent": "#08bdba",
+    "borderMuted": "#f2f2f2",
+    "success": "#08bdba",
+    "error": "#ff6f00",
+    "warning": "#be95ff",
+    "muted": "#37474f",
+    "dim": "#6f7f86",
+    "text": "",
+    "thinkingText": "#90a4ae",
+
+    "selectedBg": "#d0d0d0",
+    "userMessageBg": "#fafafa",
+    "userMessageText": "",
+    "customMessageBg": "#fafafa",
+    "customMessageText": "",
+    "customMessageLabel": "#be95ff",
+    "toolPendingBg": "#f2f2f2",
+    "toolSuccessBg": "#f2f2f2",
+    "toolErrorBg": "#fff8f2",
+    "toolTitle": "",
+    "toolOutput": "#37474f",
+
+    "mdHeading": "#0f62fe",
+    "mdLink": "#08bdba",
+    "mdLinkUrl": "#90a4ae",
+    "mdCode": "#0f62fe",
+    "mdCodeBlock": "#fafafa",
+    "mdCodeBlockBorder": "#90a4ae",
+    "mdQuote": "#90a4ae",
+    "mdQuoteBorder": "#90a4ae",
+    "mdHr": "#ff6f00",
+    "mdListBullet": "#ff6f00",
+
+    "toolDiffAdded": "#cef2f1",
+    "toolDiffRemoved": "#fcddea",
+    "toolDiffContext": "#c3d8ff",
+
+    "syntaxComment": "#90a4ae",
+    "syntaxKeyword": "#be95ff",
+    "syntaxFunction": "#0f62fe",
+    "syntaxVariable": "#37474f",
+    "syntaxString": "#42be65",
+    "syntaxNumber": "#ff6f00",
+    "syntaxType": "#0f62fe",
+    "syntaxOperator": "#0f62fe",
+    "syntaxPunctuation": "#0f62fe",
+
+    "thinkingOff": "#90a4ae",
+    "thinkingMinimal": "#6f7f86",
+    "thinkingLow": "#dfe8ff",
+    "thinkingMedium": "#0f62fe",
+    "thinkingHigh": "#673ab7",
+    "thinkingXhigh": "#be95ff",
+
+    "bashMode": "#ff6f00"
+  }
+}
